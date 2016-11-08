@@ -9,7 +9,7 @@ public class CSLab5DP {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub]
-		int size = 0; // TEst git
+		int size = 0; // TEst git 2
 		System.out.print("array size: ");
 		size = cin.nextInt();
 		int array[] = new int[size];
